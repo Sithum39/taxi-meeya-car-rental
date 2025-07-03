@@ -41,7 +41,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #0F50A6;
+  color: #ffc61a;
 }
 
 /* Hero Section */
@@ -108,7 +108,7 @@ nav a:hover {
 }
 
 #quick-search button {
-  background: #0F50A6;
+  background: #ffc61a;
   color: white;
   border: none;
   padding: 12px 25px;
@@ -198,7 +198,7 @@ nav a:hover {
 }
 
 .step-number {
-  background: #0F50A6;
+  background: #ffc61a;
   color: white;
   width: 40px;
   height: 40px;
@@ -298,7 +298,7 @@ footer {
 
 /* Color Theme Swatches in Hex */
 .OnitsukaTiger:-Fencing-1-hex { color: #031D40; }
-.OnitsukaTiger:-Fencing-2-hex { color: #0F50A6; }
+.OnitsukaTiger:-Fencing-2-hex { color: #ffc61a; }
 .OnitsukaTiger:-Fencing-3-hex { color: #63BBF2; }
 .OnitsukaTiger:-Fencing-4-hex { color: #F2F2F2; }
 .OnitsukaTiger:-Fencing-5-hex { color: #0D0D0D; }
